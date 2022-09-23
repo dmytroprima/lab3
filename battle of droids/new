@@ -1,0 +1,74 @@
+Tank2 was damaged by Fighter1; 
+Tank2 health = 168
+Fighter1 was damaged by Tank2; 
+Fighter1 health = 119
+Wizard2 was damaged by Fighter1; 
+Wizard2 health = 52
+Fighter1 was damaged by Wizard2; 
+Fighter1 health = 103
+Tank2 was damaged by Wizard1; 
+Tank2 health = 155
+Wizard1 was damaged by Tank2; 
+Wizard1 health = 61
+Wizard2 was damaged by Tank1; 
+Wizard2 health = 30
+Tank1 was damaged by Wizard2; 
+Tank1 health = 204
+Tank2 was damaged by Tank1; 
+Tank2 health = 127
+Tank1 was damaged by Tank2; 
+Tank1 health = 189
+Fighter2 was damaged by Wizard1; 
+Fighter2 health = 125
+Wizard1 was damaged by Fighter2; 
+Wizard1 health = 43
+Wizard2 was damaged by Tank1; 
+Wizard2 health = 20
+Tank1 was damaged by Wizard2; 
+Tank1 health = 170
+Fighter2 was damaged by Wizard1; 
+Fighter2 health = 112
+Wizard1 was damaged by Fighter2; 
+Wizard1 health = 15
+Wizard2 was damaged by Wizard1; 
+Wizard2 health = 11
+Wizard1 was damaged by Wizard2; 
+Wizard1 health = 2
+Fighter2 was damaged by Tank1; 
+Fighter2 health = 92
+Tank1 was damaged by Fighter2; 
+Tank1 health = 116
+Fighter2 was damaged by Tank1; 
+Fighter2 health = 77
+Tank1 was damaged by Fighter2; 
+Tank1 health = 55
+Tank2 was damaged by Tank1; 
+Tank2 health = 107
+Tank1 was damaged by Tank2; 
+Tank1 health = 35
+Tank2 was damaged by Tank1; 
+Tank2 health = 90
+Tank1 was damaged by Tank2; 
+Tank1 health = 10
+Wizard2 was damaged by Fighter1; 
+Wizard2 health = 0
+Tank2 was damaged by Wizard1; 
+Tank2 health = 73
+Wizard1 was damaged by Tank2; 
+Wizard1 health = 0
+Tank2 was damaged by Fighter1; 
+Tank2 health = 40
+Fighter1 was damaged by Tank2; 
+Fighter1 health = 85
+Tank2 was damaged by Fighter1; 
+Tank2 health = 16
+Fighter1 was damaged by Tank2; 
+Fighter1 health = 60
+Fighter2 was damaged by Tank1; 
+Fighter2 health = 53
+Tank1 was damaged by Fighter2; 
+Tank1 health = 0
+Fighter2 was damaged by Fighter1; 
+Fighter2 health = 0
+Tank2 was damaged by Fighter1; 
+Tank2 health = 0
