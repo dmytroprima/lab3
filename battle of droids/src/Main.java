@@ -18,6 +18,7 @@ public class Main {
             int choice = scanner.nextInt();
             if (choice == 1) {battle();}
             else if (choice == 0) {break;}
+            else continue;
         }
     }
 
@@ -57,16 +58,12 @@ public class Main {
         while (true) {
             Droid droid1 = foundAliveDroid(team1);
             Droid droid2 = foundAliveDroid(team2);
-            if (droid1.isAlive() && droid2.isAlive()) {
                 System.out.println(droid1.getName()+ " attacks " + droid2.getName());
                 beatDroid(droid2, droid1, myStream);
                 if (droid2.getHealth() != 0) {
                     System.out.println(droid2.getName()+ " attacks " + droid1.getName());
                     beatDroid(droid1, droid2, myStream);
                 }
-            }
-            else
-                continue;
 
             List<List<Droid>> teams = Arrays.asList(team1, team2);
             for (List<Droid> team : teams) {
